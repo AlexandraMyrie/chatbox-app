@@ -31,8 +31,8 @@
                                 :href="item.href"
                                 :class="[
                                     item.current
-                                        ? 'bg-blue-400 text-white'
-                                        : 'text-white hover:bg-gray-700 hover:text-white',
+                                        ? 'bg-purple-400 text-white'
+                                        : 'text-white hover:bg-gray hover:text-white',
                                     'px-3 py-2 rounded-md text-sm font-medium',
                                 ]"
                                 :aria-current="

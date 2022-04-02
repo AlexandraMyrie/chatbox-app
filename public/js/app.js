@@ -33570,7 +33570,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
         return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("a", {
           key: item.name,
           href: item.href,
-          "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([item.current ? 'bg-blue-400 text-white' : 'text-white hover:bg-gray-700 hover:text-white', 'px-3 py-2 rounded-md text-sm font-medium']),
+          "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([item.current ? 'bg-purple-400 text-white' : 'text-white hover:bg-gray hover:text-white', 'px-3 py-2 rounded-md text-sm font-medium']),
           "aria-current": item.current ? 'page' : undefined
         }, (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(item.name), 11
         /* TEXT, CLASS, PROPS */
