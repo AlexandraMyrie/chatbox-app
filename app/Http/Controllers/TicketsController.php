@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Tickets;
 use Illuminate\Http\Request;
+use Inertia\Inertia;
 
 class TicketsController extends Controller
 {
@@ -14,7 +15,7 @@ class TicketsController extends Controller
      */
     public function index()
     {
-        //
+        return Inertia::render("Tickets");
     }
 
     /**

@@ -1,5 +1,5 @@
 <template>
-    <dashboard-layout>hello</dashboard-layout>
+    <dashboard-layout>Doctors</dashboard-layout>
 </template>
 
 <script>

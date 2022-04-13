@@ -910,13 +910,13 @@ select {
   --tw-bg-opacity: 1;
   background-color: rgb(31 41 55 / var(--tw-bg-opacity));
 }
-.bg-blue-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(66 176 245 / var(--tw-bg-opacity));
-}
 .bg-purple-400 {
   --tw-bg-opacity: 1;
   background-color: rgb(113 0 245 / var(--tw-bg-opacity));
+}
+.bg-blue-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(66 176 245 / var(--tw-bg-opacity));
 }
 .p-6 {
   padding: 1.5rem;
